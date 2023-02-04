@@ -12,7 +12,7 @@ export class LoginPage implements OnInit {
 
   ngOnInit() {
   }
-
+  
   getMeLogin() {
     this.router.navigate(['/home'])
   }
